@@ -71,13 +71,5 @@ These files are provided by the CDC and define the structure of the raw YRBS dat
 
 ---
 
-## Notes & Limitations
-- This analysis is **observational** and identifies associations, not causal relationships.
-- The national SADC dataset does not include GPA or letter-grade performance variables.
-- Some variables contain missing responses and were handled accordingly.
 
----
-
-## Reproducibility
-All data used in this project is publicly available, and the analysis can be reproduced using the scripts and notebooks provided in this repository.
 
